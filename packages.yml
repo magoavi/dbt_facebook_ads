@@ -1,3 +1,2 @@
 packages:
-- package: fivetran/facebook_ads_source
-  version: [">=0.8.0", "<0.9.0"]
+- git: https://github.com/magoavi/dbt_facebook_ads_source.git
